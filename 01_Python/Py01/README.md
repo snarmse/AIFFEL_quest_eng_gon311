@@ -5,10 +5,16 @@
 
 # PRT(Peer Review Template)
 - [x]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
+<<<<<<< HEAD
+    ![](./review_image/1.png)  
+
+![](./review_image/2.png)     
+=======
 
 ![](./review_image/1.png)
 
 ![](./review_image/2.png)   
+>>>>>>> 3a010d264eb7c38a0a514a6d455e6df30aa5610a
     
 - [x]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
